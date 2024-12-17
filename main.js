@@ -7,15 +7,27 @@ todolistArry.push(todoList, todoList1, todoList2, todoList3);
 console.log(todolistArry);
 
 
-// if(age >= 18 && country==='pakistan')
-// {
-//  const carName = prompt("Which car you want to drive?")
-//  alert(`you can drive ${carName}`);
+// const bigAnimal = prompt("Is It Big? Please Say Yes Or No");
+// const waterAnimal = prompt("Does it live in Water? Please Say Yes Or No");
+
+// if ( bigAnimal=='Yes' && waterAnimal=='No'){
+
+//     alert(`Elephant`);
+
 // }
-// else if(age >= 20 && country==='india'){
-//     const carName = prompt("Which car you want to drive?")
-//  alert(`you can drive ${carName}`);
-// } 
-// else{
-//  alert('You are not eligible')   
+// if ( bigAnimal=='Yes' && waterAnimal=='Yes'){
+
+//     alert(`Wel Fish`);
+
+// }
+
+// if ( bigAnimal=='No' && waterAnimal=='Yes'){
+
+//     alert(`Fish`);
+
+// }
+// if ( bigAnimal=='No' && waterAnimal=='No'){
+
+//     alert(`Mouse`);
+
 // }
